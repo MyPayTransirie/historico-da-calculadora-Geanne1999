@@ -30,21 +30,22 @@ Abaixo segue alguns passos sugeridos para criar a aplicação:
 
 | Passo | Descrição  | Completou? |
 | ----- | ---------- | ---------  |
-|   1  | Botão Histórico                       | **sim/não** |
-|   2  | Tela Histórico                        |            |
-|   3  | Listener iniciar tela                 |            |
-|   4  | Salvar histórico string ";"           |            |
-|   5  | Enviar histórico com string           |            |
-|   6  | Exibir histórico na tela 2            |            |
-|   7  | Enviar histórico como JSON            |            |
-|   8  | Enviar histórico como `Array<String>` |            |
-|   9  | Salvar histórico como `Historico`     |            |
-|   10 | Enviar histórico com `Parcelable`    |            |
+|   1  | Botão Histórico                       |      sim      |
+|   2  | Tela Histórico                        |      sim      |
+|   3  | Listener iniciar tela                 |      sim      |
+|   4  | Salvar histórico string ";"           |       sim     |
+|   5  | Enviar histórico com string           |       sim     |
+|   6  | Exibir histórico na tela 2            |       sim     |
+|   7  | Enviar histórico como JSON            |       sim     |
+|   8  | Enviar histórico como `Array<String>` |       sim     |
+|   9  | Salvar histórico como `Historico`     |       sim     |
+|   10 | Enviar histórico com `Parcelable`    |       sim      |
 
 ----------
 ## Dificuldades
 
 Explique de forma resumida as dificuldades que teve e como resolveu.
+Dificuldades com o formato json, além dos demais formatos, além de uso de funções nunca utlizadas por mim como o jointToString. Dificuldade com um elemento do layout, porém depois de utilizar log e confirmar o envio das informações, também foi resolvido. 
 
 > Escreva: "não tive dificuldades" se for o caso e apague o resto
 
